@@ -14,7 +14,7 @@ Ensure you have Python installed on your system. If you do not, you can download
 
 Step 2: Clone the Repository
 Clone the project repository to your local machine. If you use Git, you can run the following command:
-git clone Heshoo-ksh/376Assigment2
+git clone https://github.com/Heshoo-ksh/376Assigment2.git
 
 Step 3: Install Flask
 Navigate to the project directory:
@@ -36,8 +36,8 @@ API Endpoints
 
 Dependencies
 This project requires the following Python packages:
-- Flask: A lightweight WSGI web application framework.
-- JSON: Included in Python's standard library, used for parsing and generating JSON data.
+- Flask: A lightweight WSGI web application framework. (This is the only external dependency required for this project.)
+- JSON: Included in Python's standard library, used for parsing and generating JSON data. 
 - re: Python's standard regex library, used for extracting links from tweet texts.
 
 
